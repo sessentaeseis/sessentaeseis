@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/antonio-vedana-108a60365/">
   <img align="left" alt="Antonio Vedana | LinkedIN" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
 </a>
-<a href="https://www.instagram.com/antoniovedana">
+<a href="https://www.instagram.com/dialektische">
   <img align="left" alt="Antonio Vedana | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg"/>
 </a>
 <a href="https://open.spotify.com/user/31w65acm5wtqbbrsplzk2gkovdcm?si=EK7fJcofTAiZ0Hmsy-6ssw">
